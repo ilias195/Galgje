@@ -2,15 +2,14 @@
 
 ## Te raden woord
 
-|w| | | | | | |
+|r|a|c|i|s|m|e|
 
-|-|-|-|-|-|-|e|
+|-|-|-|-|-|-|-|
 
 |1|2|3|4|5|6|7|
 
 ## Score
-![gallow](./images/2.png)
+![gallow](./images/1.png)
 
 ## Beurten
-* ik raad een w
-* ik raad een y (niet goed)
+* 
